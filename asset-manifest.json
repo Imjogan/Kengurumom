@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Kengurumom/static/css/main.7c63540c.chunk.css",
-    "main.js": "/Kengurumom/static/js/main.062be8ef.chunk.js",
-    "main.js.map": "/Kengurumom/static/js/main.062be8ef.chunk.js.map",
+    "main.js": "/Kengurumom/static/js/main.9bfec5db.chunk.js",
+    "main.js.map": "/Kengurumom/static/js/main.9bfec5db.chunk.js.map",
     "runtime-main.js": "/Kengurumom/static/js/runtime-main.e644beff.js",
     "runtime-main.js.map": "/Kengurumom/static/js/runtime-main.e644beff.js.map",
     "static/css/2.5e3f3a7a.chunk.css": "/Kengurumom/static/css/2.5e3f3a7a.chunk.css",
-    "static/js/2.29c894c0.chunk.js": "/Kengurumom/static/js/2.29c894c0.chunk.js",
-    "static/js/2.29c894c0.chunk.js.map": "/Kengurumom/static/js/2.29c894c0.chunk.js.map",
+    "static/js/2.863f478f.chunk.js": "/Kengurumom/static/js/2.863f478f.chunk.js",
+    "static/js/2.863f478f.chunk.js.map": "/Kengurumom/static/js/2.863f478f.chunk.js.map",
     "static/js/3.81c51497.chunk.js": "/Kengurumom/static/js/3.81c51497.chunk.js",
     "static/js/3.81c51497.chunk.js.map": "/Kengurumom/static/js/3.81c51497.chunk.js.map",
     "index.html": "/Kengurumom/index.html",
     "static/css/2.5e3f3a7a.chunk.css.map": "/Kengurumom/static/css/2.5e3f3a7a.chunk.css.map",
     "static/css/main.7c63540c.chunk.css.map": "/Kengurumom/static/css/main.7c63540c.chunk.css.map",
-    "static/js/2.29c894c0.chunk.js.LICENSE.txt": "/Kengurumom/static/js/2.29c894c0.chunk.js.LICENSE.txt",
+    "static/js/2.863f478f.chunk.js.LICENSE.txt": "/Kengurumom/static/js/2.863f478f.chunk.js.LICENSE.txt",
     "static/media/Footer.css": "/Kengurumom/static/media/wa.885e7708.svg",
     "static/media/index.css": "/Kengurumom/static/media/MontserratAlternates-SemiBold.e68ccb92.woff",
     "static/media/about-1.8b20a455.jpg": "/Kengurumom/static/media/about-1.8b20a455.jpg",
@@ -47,11 +47,7 @@
     "static/media/pay_icon.808f7cc4.svg": "/Kengurumom/static/media/pay_icon.808f7cc4.svg",
     "static/media/photo-on-slider-1.1aa1af5a.jpg": "/Kengurumom/static/media/photo-on-slider-1.1aa1af5a.jpg",
     "static/media/photo-on-slider-2.7eddb5a7.jpg": "/Kengurumom/static/media/photo-on-slider-2.7eddb5a7.jpg",
-    "static/media/popular_avokado.969ee837.png": "/Kengurumom/static/media/popular_avokado.969ee837.png",
     "static/media/PopularItem.css": "/Kengurumom/static/media/popular_cart_hover.1365f5f5.svg",
-    "static/media/popular_cocoon.c0322aec.png": "/Kengurumom/static/media/popular_cocoon.c0322aec.png",
-    "static/media/popular_milksnud.6b6d247e.png": "/Kengurumom/static/media/popular_milksnud.6b6d247e.png",
-    "static/media/popular_sleepingbag.4d451426.png": "/Kengurumom/static/media/popular_sleepingbag.4d451426.png",
     "static/media/popup_close.c0080c81.svg": "/Kengurumom/static/media/popup_close.c0080c81.svg",
     "static/media/present-section.214c62e3.jpg": "/Kengurumom/static/media/present-section.214c62e3.jpg",
     "static/media/reasonable-consumption.37525174.svg": "/Kengurumom/static/media/reasonable-consumption.37525174.svg",
@@ -72,8 +68,8 @@
   "entrypoints": [
     "static/js/runtime-main.e644beff.js",
     "static/css/2.5e3f3a7a.chunk.css",
-    "static/js/2.29c894c0.chunk.js",
+    "static/js/2.863f478f.chunk.js",
     "static/css/main.7c63540c.chunk.css",
-    "static/js/main.062be8ef.chunk.js"
+    "static/js/main.9bfec5db.chunk.js"
   ]
 }
