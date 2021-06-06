@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Kengurumom/static/css/main.7c63540c.chunk.css",
-    "main.js": "/Kengurumom/static/js/main.9bfec5db.chunk.js",
-    "main.js.map": "/Kengurumom/static/js/main.9bfec5db.chunk.js.map",
-    "runtime-main.js": "/Kengurumom/static/js/runtime-main.e644beff.js",
-    "runtime-main.js.map": "/Kengurumom/static/js/runtime-main.e644beff.js.map",
+    "main.css": "/Kengurumom/static/css/main.3f36f4a5.chunk.css",
+    "main.js": "/Kengurumom/static/js/main.0efa67be.chunk.js",
+    "main.js.map": "/Kengurumom/static/js/main.0efa67be.chunk.js.map",
+    "runtime-main.js": "/Kengurumom/static/js/runtime-main.3cb40365.js",
+    "runtime-main.js.map": "/Kengurumom/static/js/runtime-main.3cb40365.js.map",
     "static/css/2.5e3f3a7a.chunk.css": "/Kengurumom/static/css/2.5e3f3a7a.chunk.css",
-    "static/js/2.863f478f.chunk.js": "/Kengurumom/static/js/2.863f478f.chunk.js",
-    "static/js/2.863f478f.chunk.js.map": "/Kengurumom/static/js/2.863f478f.chunk.js.map",
-    "static/js/3.81c51497.chunk.js": "/Kengurumom/static/js/3.81c51497.chunk.js",
-    "static/js/3.81c51497.chunk.js.map": "/Kengurumom/static/js/3.81c51497.chunk.js.map",
+    "static/js/2.118bbaf3.chunk.js": "/Kengurumom/static/js/2.118bbaf3.chunk.js",
+    "static/js/2.118bbaf3.chunk.js.map": "/Kengurumom/static/js/2.118bbaf3.chunk.js.map",
+    "static/js/3.dfcb3a47.chunk.js": "/Kengurumom/static/js/3.dfcb3a47.chunk.js",
+    "static/js/3.dfcb3a47.chunk.js.map": "/Kengurumom/static/js/3.dfcb3a47.chunk.js.map",
     "index.html": "/Kengurumom/index.html",
     "static/css/2.5e3f3a7a.chunk.css.map": "/Kengurumom/static/css/2.5e3f3a7a.chunk.css.map",
-    "static/css/main.7c63540c.chunk.css.map": "/Kengurumom/static/css/main.7c63540c.chunk.css.map",
-    "static/js/2.863f478f.chunk.js.LICENSE.txt": "/Kengurumom/static/js/2.863f478f.chunk.js.LICENSE.txt",
+    "static/css/main.3f36f4a5.chunk.css.map": "/Kengurumom/static/css/main.3f36f4a5.chunk.css.map",
+    "static/js/2.118bbaf3.chunk.js.LICENSE.txt": "/Kengurumom/static/js/2.118bbaf3.chunk.js.LICENSE.txt",
     "static/media/Footer.css": "/Kengurumom/static/media/wa.885e7708.svg",
     "static/media/index.css": "/Kengurumom/static/media/MontserratAlternates-SemiBold.e68ccb92.woff",
+    "static/media/CustomSelect.css": "/Kengurumom/static/media/Triangle.91def2c8.svg",
     "static/media/about-1.8b20a455.jpg": "/Kengurumom/static/media/about-1.8b20a455.jpg",
     "static/media/about-2.6180c3cc.jpg": "/Kengurumom/static/media/about-2.6180c3cc.jpg",
     "static/media/about-3.85d2fc8a.jpg": "/Kengurumom/static/media/about-3.85d2fc8a.jpg",
@@ -66,10 +67,10 @@
     "static/media/whitening.ebd0b487.svg": "/Kengurumom/static/media/whitening.ebd0b487.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e644beff.js",
+    "static/js/runtime-main.3cb40365.js",
     "static/css/2.5e3f3a7a.chunk.css",
-    "static/js/2.863f478f.chunk.js",
-    "static/css/main.7c63540c.chunk.css",
-    "static/js/main.9bfec5db.chunk.js"
+    "static/js/2.118bbaf3.chunk.js",
+    "static/css/main.3f36f4a5.chunk.css",
+    "static/js/main.0efa67be.chunk.js"
   ]
 }
